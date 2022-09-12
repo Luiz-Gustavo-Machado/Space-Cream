@@ -5,9 +5,51 @@
 }
 
 :root {
-    --ff-heading:'Palanquin', sans-serif;
-    --ff-texting:'Staatliches', sans-serif;
+    --ff-header:'Staatliches', sans-serif;
+    --ff-texting:'Palanquin', sans-serif;
 
-    --bg-primary: hsl(var(#8E9AAF))
+    --bg-header-color: #8E9AAF;
+    --bg-main-color: #EFF1FF;
 
+    --background-headind-color: hsl(275, 18%, 79%);
+
+    --fc-header-color: #fff;
+    --fc-main-color: #4A4E69; 
+   
+
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--ff-texting);
+    background-color: var(--bg-main-color);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+  
+    font-family: var(--ff-header);
+    background-color: var(--bg-header-color);
+}
+
+header img {
+    margin: 3.2rem auto;
+}
+
+header h1 {
+    color: var(--fc-header-color);
+    text-transform: uppercase;
+    line-height: 3.4rem;
+    font-weight: 400;
+  
+   background-color: var(--background-headind-color);
+
+   text-align: center;
+
+}
+
+header p {
+    font-family: var(--ff-texting);
+    text-align: center;
 }
