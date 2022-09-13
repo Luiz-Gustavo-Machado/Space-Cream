@@ -12,4 +12,7 @@ Deploy <a href="#" target="_blank">Visualize a pagina aqui</a>
 
 <h2>Imagem de referência</h2>
 
+<<<<<<< Updated upstream
 ![image](https://user-images.githubusercontent.com/108701750/189795139-93b42285-dcca-4283-a80b-00dfe2c5bdc3.png)
+=======
+>>>>>>> Stashed changes
