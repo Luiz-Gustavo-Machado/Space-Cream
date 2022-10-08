@@ -14,8 +14,8 @@
 
 ---
 
-### 🔖 Layout
-#### Space Cream
+### 🔖 Layout Space Cream
+
 Você pode visualizar o layout do projeto através 🔗 [desse link](https://spacecreams.netlify.app/).
 
 ![image](https://user-images.githubusercontent.com/108701750/189795139-93b42285-dcca-4283-a80b-00dfe2c5bdc3.png)
