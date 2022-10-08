@@ -29,6 +29,8 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://spa
 - HTML
 - CSS
 
+#
+
 ### 💻 Projeto
 
 > Utilizamos o Mobile First com variáveis e cores HSL no CSS, transições e transformações, Animações com CSS, Versão desktop com CSS Grid, adicionando filtros em imagens com CSS e ajustando texto com CSS clamp.
